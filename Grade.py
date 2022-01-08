@@ -2,7 +2,7 @@ Last_Semester_Gradebook = [["physics", 70], ["calculus", 80], ["Poetry", 99], ["
 
 
 
-Gradebook = [["physics", 98], ["caculas", 97], ["poetry",85], ["history", 88]]
+Gradebook = [["physics", 98], ["caculas", 97], ["poetry",85], ["history", 88, 99]]
 
 print(Gradebook)
 
